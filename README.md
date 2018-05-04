@@ -3,12 +3,12 @@ CompVisionFinal
 
 To use our project unzip the package and open the folder with terminal or linux. 
 
-1. CD into CV_Final
+1. CD into Code
 2. To run the code:
 	
-	 python FINAL_CV.py -v <video file>
+	 python final_cv.py -v <video file>
 		
-	Example: python FINAL_CV.py -v nba1.mp4
+	Example: python final_cv.py -v nba1.mp4
 
 3. Once the video opens press "P"
 4. Another window appears behind where you can select one object with the mouse starting from the top left and clicking and dragging to the bottom right of the selected object.
