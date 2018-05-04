@@ -1,3 +1,6 @@
+CompVisionFinal
+
+
 To use our project unzip the package and open the folder with terminal or linux. 
 
 1. CD into CV_Final
